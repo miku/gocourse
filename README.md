@@ -1,0 +1,2 @@
+# gocourse
+A Go course.
